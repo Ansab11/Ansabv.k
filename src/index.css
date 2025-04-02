@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.smooch-regular {
+    font-family: "Smooch", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
