@@ -1,0 +1,4 @@
+[build]
+  base = "my-app"  # Path to your project directory
+  publish = "my-app/dist"  # Adjust if your build output is in a different directory
+  command = "npm run build"  # Adjust based on your build tool
